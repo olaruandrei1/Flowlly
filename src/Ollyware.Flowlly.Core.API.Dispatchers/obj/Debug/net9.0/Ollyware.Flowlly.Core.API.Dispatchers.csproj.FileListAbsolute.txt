@@ -1,0 +1,12 @@
+C:\Users\cedoc\Desktop\Flowlly\Ollyware.Flowlly.Core.API\Ollyware.Flowlly.Core.API.Dispatchers\bin\Debug\net9.0\Ollyware.Flowlly.Core.API.Dispatchers.deps.json
+C:\Users\cedoc\Desktop\Flowlly\Ollyware.Flowlly.Core.API\Ollyware.Flowlly.Core.API.Dispatchers\bin\Debug\net9.0\Ollyware.Flowlly.Core.API.Dispatchers.dll
+C:\Users\cedoc\Desktop\Flowlly\Ollyware.Flowlly.Core.API\Ollyware.Flowlly.Core.API.Dispatchers\bin\Debug\net9.0\Ollyware.Flowlly.Core.API.Dispatchers.pdb
+C:\Users\cedoc\Desktop\Flowlly\Ollyware.Flowlly.Core.API\Ollyware.Flowlly.Core.API.Dispatchers\obj\Debug\net9.0\Ollyware.Flowlly.Core.API.Dispatchers.csproj.AssemblyReference.cache
+C:\Users\cedoc\Desktop\Flowlly\Ollyware.Flowlly.Core.API\Ollyware.Flowlly.Core.API.Dispatchers\obj\Debug\net9.0\Ollyware.Flowlly.Core.API.Dispatchers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cedoc\Desktop\Flowlly\Ollyware.Flowlly.Core.API\Ollyware.Flowlly.Core.API.Dispatchers\obj\Debug\net9.0\Ollyware.Flowlly.Core.API.Dispatchers.AssemblyInfoInputs.cache
+C:\Users\cedoc\Desktop\Flowlly\Ollyware.Flowlly.Core.API\Ollyware.Flowlly.Core.API.Dispatchers\obj\Debug\net9.0\Ollyware.Flowlly.Core.API.Dispatchers.AssemblyInfo.cs
+C:\Users\cedoc\Desktop\Flowlly\Ollyware.Flowlly.Core.API\Ollyware.Flowlly.Core.API.Dispatchers\obj\Debug\net9.0\Ollyware.Flowlly.Core.API.Dispatchers.csproj.CoreCompileInputs.cache
+C:\Users\cedoc\Desktop\Flowlly\Ollyware.Flowlly.Core.API\Ollyware.Flowlly.Core.API.Dispatchers\obj\Debug\net9.0\Ollyware.Flowlly.Core.API.Dispatchers.dll
+C:\Users\cedoc\Desktop\Flowlly\Ollyware.Flowlly.Core.API\Ollyware.Flowlly.Core.API.Dispatchers\obj\Debug\net9.0\refint\Ollyware.Flowlly.Core.API.Dispatchers.dll
+C:\Users\cedoc\Desktop\Flowlly\Ollyware.Flowlly.Core.API\Ollyware.Flowlly.Core.API.Dispatchers\obj\Debug\net9.0\Ollyware.Flowlly.Core.API.Dispatchers.pdb
+C:\Users\cedoc\Desktop\Flowlly\Ollyware.Flowlly.Core.API\Ollyware.Flowlly.Core.API.Dispatchers\obj\Debug\net9.0\ref\Ollyware.Flowlly.Core.API.Dispatchers.dll

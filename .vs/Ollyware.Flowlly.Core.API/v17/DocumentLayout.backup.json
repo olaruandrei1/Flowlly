@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09CC2CFE-09BB-4394-91AA-9711104B810A}|Ollyware.Flowlly.Core.API.Domain\\Ollyware.Flowlly.Core.API.Domain.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.domain\\channelentitites\\notificationsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CC2CFE-09BB-4394-91AA-9711104B810A}|Ollyware.Flowlly.Core.API.Domain\\Ollyware.Flowlly.Core.API.Domain.csproj|solutionrelative:ollyware.flowlly.core.api.domain\\channelentitites\\notificationsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.persistence\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|solutionrelative:ollyware.flowlly.core.api.persistence\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.persistence\\unitofwork\\configurations\\baseunitofworkdependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|solutionrelative:ollyware.flowlly.core.api.persistence\\unitofwork\\configurations\\baseunitofworkdependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376BB658-A0AC-43A1-B1EA-B72F71A212D1}|Ollyware.Flowlly.Core.API.Infrastructure\\Ollyware.Flowlly.Core.API.Infrastructure.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.infrastructure\\infrastructuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376BB658-A0AC-43A1-B1EA-B72F71A212D1}|Ollyware.Flowlly.Core.API.Infrastructure\\Ollyware.Flowlly.Core.API.Infrastructure.csproj|solutionrelative:ollyware.flowlly.core.api.infrastructure\\infrastructuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CC2CFE-09BB-4394-91AA-9711104B810A}|Ollyware.Flowlly.Core.API.Domain\\Ollyware.Flowlly.Core.API.Domain.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.domain\\configurableobjects\\externaldependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CC2CFE-09BB-4394-91AA-9711104B810A}|Ollyware.Flowlly.Core.API.Domain\\Ollyware.Flowlly.Core.API.Domain.csproj|solutionrelative:ollyware.flowlly.core.api.domain\\configurableobjects\\externaldependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A518D14-FE82-4B7E-AD0A-B185B702426B}|Ollyware.Flowlly.Core.API.Application\\Ollyware.Flowlly.Core.API.Application.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.application\\contracts\\infrastructure\\externalcalls\\inotificationspushes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A518D14-FE82-4B7E-AD0A-B185B702426B}|Ollyware.Flowlly.Core.API.Application\\Ollyware.Flowlly.Core.API.Application.csproj|solutionrelative:ollyware.flowlly.core.api.application\\contracts\\infrastructure\\externalcalls\\inotificationspushes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.persistence\\databaseconnectionfactory\\connectionbases\\basedatabaseconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|solutionrelative:ollyware.flowlly.core.api.persistence\\databaseconnectionfactory\\connectionbases\\basedatabaseconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.persistence\\databaseconnectionfactory\\connectionbases\\connectionhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|solutionrelative:ollyware.flowlly.core.api.persistence\\databaseconnectionfactory\\connectionbases\\connectionhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CC2CFE-09BB-4394-91AA-9711104B810A}|Ollyware.Flowlly.Core.API.Domain\\Ollyware.Flowlly.Core.API.Domain.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.domain\\configurableobjects\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CC2CFE-09BB-4394-91AA-9711104B810A}|Ollyware.Flowlly.Core.API.Domain\\Ollyware.Flowlly.Core.API.Domain.csproj|solutionrelative:ollyware.flowlly.core.api.domain\\configurableobjects\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.persistence\\databasecontexts\\expensescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|solutionrelative:ollyware.flowlly.core.api.persistence\\databasecontexts\\expensescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A518D14-FE82-4B7E-AD0A-B185B702426B}|Ollyware.Flowlly.Core.API.Application\\Ollyware.Flowlly.Core.API.Application.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.application\\contracts\\persistence\\configurations\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A518D14-FE82-4B7E-AD0A-B185B702426B}|Ollyware.Flowlly.Core.API.Application\\Ollyware.Flowlly.Core.API.Application.csproj|solutionrelative:ollyware.flowlly.core.api.application\\contracts\\persistence\\configurations\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.persistence\\repositories\\expensesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|solutionrelative:ollyware.flowlly.core.api.persistence\\repositories\\expensesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.persistence\\databasecontexts\\notescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|solutionrelative:ollyware.flowlly.core.api.persistence\\databasecontexts\\notescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CC2CFE-09BB-4394-91AA-9711104B810A}|Ollyware.Flowlly.Core.API.Domain\\Ollyware.Flowlly.Core.API.Domain.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.domain\\domaindependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CC2CFE-09BB-4394-91AA-9711104B810A}|Ollyware.Flowlly.Core.API.Domain\\Ollyware.Flowlly.Core.API.Domain.csproj|solutionrelative:ollyware.flowlly.core.api.domain\\domaindependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.persistence\\databasecontexts\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|solutionrelative:ollyware.flowlly.core.api.persistence\\databasecontexts\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.persistence\\databasecontexts\\taskscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|solutionrelative:ollyware.flowlly.core.api.persistence\\databasecontexts\\taskscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.persistence\\databasecontexts\\habitscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|solutionrelative:ollyware.flowlly.core.api.persistence\\databasecontexts\\habitscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.persistence\\databasecontexts\\configurationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|solutionrelative:ollyware.flowlly.core.api.persistence\\databasecontexts\\configurationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.persistence\\repositories\\habitsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|solutionrelative:ollyware.flowlly.core.api.persistence\\repositories\\habitsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.persistence\\repositories\\notesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|solutionrelative:ollyware.flowlly.core.api.persistence\\repositories\\notesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.persistence\\repositories\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|solutionrelative:ollyware.flowlly.core.api.persistence\\repositories\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643E7B-4FA7-4FD5-BB04-808090D9AC6F}|Ollyware.Flowlly.Core.API.Persistence\\Ollyware.Flowlly.Core.API.Persistence.csproj|solutionrelative:ollyware.flowlly.core.api.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CC2CFE-09BB-4394-91AA-9711104B810A}|Ollyware.Flowlly.Core.API.Domain\\Ollyware.Flowlly.Core.API.Domain.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.domain\\configurableobjects\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CC2CFE-09BB-4394-91AA-9711104B810A}|Ollyware.Flowlly.Core.API.Domain\\Ollyware.Flowlly.Core.API.Domain.csproj|solutionrelative:ollyware.flowlly.core.api.domain\\configurableobjects\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CC2CFE-09BB-4394-91AA-9711104B810A}|Ollyware.Flowlly.Core.API.Domain\\Ollyware.Flowlly.Core.API.Domain.csproj|c:\\users\\cedoc\\desktop\\flowlly\\ollyware.flowlly.core.api\\ollyware.flowlly.core.api.domain\\configurableobjects\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CC2CFE-09BB-4394-91AA-9711104B810A}|Ollyware.Flowlly.Core.API.Domain\\Ollyware.Flowlly.Core.API.Domain.csproj|solutionrelative:ollyware.flowlly.core.api.domain\\configurableobjects\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationSender.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Domain\\ChannelEntitites\\NotificationSender.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Domain\\ChannelEntitites\\NotificationSender.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Domain\\ChannelEntitites\\NotificationSender.cs*",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Domain\\ChannelEntitites\\NotificationSender.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:28:00.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:26:29.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INotificationsPushes.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Application\\Contracts\\Infrastructure\\ExternalCalls\\INotificationsPushes.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Application\\Contracts\\Infrastructure\\ExternalCalls\\INotificationsPushes.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Application\\Contracts\\Infrastructure\\ExternalCalls\\INotificationsPushes.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Application\\Contracts\\Infrastructure\\ExternalCalls\\INotificationsPushes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:18:11.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExternalDependencies.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Domain\\ConfigurableObjects\\ExternalDependencies.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Domain\\ConfigurableObjects\\ExternalDependencies.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Domain\\ConfigurableObjects\\ExternalDependencies.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Domain\\ConfigurableObjects\\ExternalDependencies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:07:07.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfrastructureDependencies.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Infrastructure\\InfrastructureDependencies.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Infrastructure\\InfrastructureDependencies.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Infrastructure\\InfrastructureDependencies.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Infrastructure\\InfrastructureDependencies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:05:29.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConnectionStrings.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Domain\\ConfigurableObjects\\ConnectionStrings.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Domain\\ConfigurableObjects\\ConnectionStrings.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Domain\\ConfigurableObjects\\ConnectionStrings.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Domain\\ConfigurableObjects\\ConnectionStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:53:58.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConnectionHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\DatabaseConnectionFactory\\ConnectionBases\\ConnectionHelpers.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Persistence\\DatabaseConnectionFactory\\ConnectionBases\\ConnectionHelpers.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\DatabaseConnectionFactory\\ConnectionBases\\ConnectionHelpers.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Persistence\\DatabaseConnectionFactory\\ConnectionBases\\ConnectionHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:37:51.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseDatabaseConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\DatabaseConnectionFactory\\ConnectionBases\\BaseDatabaseConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Persistence\\DatabaseConnectionFactory\\ConnectionBases\\BaseDatabaseConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\DatabaseConnectionFactory\\ConnectionBases\\BaseDatabaseConnectionFactory.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Persistence\\DatabaseConnectionFactory\\ConnectionBases\\BaseDatabaseConnectionFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:37:30.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseUnitOfWorkDependencies.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\UnitOfWork\\Configurations\\BaseUnitOfWorkDependencies.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Persistence\\UnitOfWork\\Configurations\\BaseUnitOfWorkDependencies.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\UnitOfWork\\Configurations\\BaseUnitOfWorkDependencies.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Persistence\\UnitOfWork\\Configurations\\BaseUnitOfWorkDependencies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:17:39.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExpensesContext.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\ExpensesContext.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\ExpensesContext.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\ExpensesContext.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\ExpensesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:18:50.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExpensesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\Repositories\\ExpensesRepository.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Persistence\\Repositories\\ExpensesRepository.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\Repositories\\ExpensesRepository.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Persistence\\Repositories\\ExpensesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:14:29.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotesContext.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\NotesContext.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\NotesContext.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\NotesContext.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\NotesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:19:11.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DomainDependencies.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Domain\\DomainDependencies.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Domain\\DomainDependencies.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Domain\\DomainDependencies.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Domain\\DomainDependencies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:12:29.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Application\\Contracts\\Persistence\\Configurations\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Application\\Contracts\\Persistence\\Configurations\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Application\\Contracts\\Persistence\\Configurations\\IUnitOfWork.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Application\\Contracts\\Persistence\\Configurations\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:38:20.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TasksContext.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\TasksContext.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\TasksContext.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\TasksContext.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\TasksContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:19:21.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HabitsContext.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\HabitsContext.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\HabitsContext.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\HabitsContext.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\HabitsContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:18:28.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConfigurationContext.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\ConfigurationContext.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\ConfigurationContext.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\ConfigurationContext.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\ConfigurationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:18:58.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\UserContext.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\UserContext.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\UserContext.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Persistence\\DatabaseContexts\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:39:05.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HabitsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\Repositories\\HabitsRepository.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Persistence\\Repositories\\HabitsRepository.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\Repositories\\HabitsRepository.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Persistence\\Repositories\\HabitsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:14:10.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NotesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\Repositories\\NotesRepository.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Persistence\\Repositories\\NotesRepository.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\Repositories\\NotesRepository.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Persistence\\Repositories\\NotesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:13:35.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TasksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\Repositories\\TasksRepository.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Persistence\\Repositories\\TasksRepository.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\Repositories\\TasksRepository.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Persistence\\Repositories\\TasksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:13:07.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:48:19.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmailConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Domain\\ConfigurableObjects\\EmailConfiguration.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Domain\\ConfigurableObjects\\EmailConfiguration.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Domain\\ConfigurableObjects\\EmailConfiguration.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Domain\\ConfigurableObjects\\EmailConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:11:36.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Domain\\ConfigurableObjects\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Ollyware.Flowlly.Core.API.Domain\\ConfigurableObjects\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\cedoc\\Desktop\\Flowlly\\Ollyware.Flowlly.Core.API\\Ollyware.Flowlly.Core.API.Domain\\ConfigurableObjects\\AppSettings.cs",
+              "RelativeToolTip": "Ollyware.Flowlly.Core.API.Domain\\ConfigurableObjects\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:11:33.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

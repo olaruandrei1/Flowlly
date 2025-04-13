@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ollyware.Flowlly.Core.API.props" />
+</Project>
