@@ -1,6 +1,8 @@
-﻿namespace Ollyware.Flowlly.Core.API.Application.Contracts.Persistence.Repositories
+﻿using Ollyware.Flowlly.Core.API.Application.Contracts.Persistence.Configurations;
+using Ollyware.Flowlly.Core.API.Domain.Entities;
+
+namespace Ollyware.Flowlly.Core.API.Application.Contracts.Persistence.Repositories;
+
+public interface IExpensesRepository : IInitiateRepository<ExpenseEntity>
 {
-    public interface IExpensesRepository
-    {
-    }
 }

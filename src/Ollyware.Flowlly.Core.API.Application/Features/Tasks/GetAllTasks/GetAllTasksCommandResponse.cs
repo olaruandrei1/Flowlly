@@ -1,12 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Ollyware.Flowlly.Core.API.Domain.Responses.ResponseBase;
 
-namespace Ollyware.Flowlly.Core.API.Application.Features.Tasks.GetAllTasks
-{
-    internal class GetAllTasksCommandResponse
-    {
-    }
-}
+namespace Ollyware.Flowlly.Core.API.Application.Features.Tasks.GetAllTasks;
+
+public class GetAllTasksCommandResponse : StandardCommandResponse { }

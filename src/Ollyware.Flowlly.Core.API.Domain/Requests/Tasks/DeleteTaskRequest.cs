@@ -2,5 +2,5 @@
 
 public class DeleteTaskRequest
 {
-    public Guid Id { get; set; }
+    public Guid TaskId { get; set; }
 }

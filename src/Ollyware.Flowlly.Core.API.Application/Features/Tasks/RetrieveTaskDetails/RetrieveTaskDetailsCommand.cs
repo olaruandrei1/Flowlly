@@ -1,12 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using AutoMapper;
+using MediatR;
+using Ollyware.Flowlly.Core.API.Application.Contracts.Persistence.Configurations;
 
-namespace Ollyware.Flowlly.Core.API.Application.Features.Tasks.RetrieveTaskDetails
+namespace Ollyware.Flowlly.Core.API.Application.Features.Tasks.RetrieveTaskDetails;
+
+public record struct RetrieveTaskDetailsCommand(Guid TaskId) : IRequest<RetrieveTaskDetailsCommandResponse> { }
+
+public class RetrieveTaskDetailsCommandHandler(IUnitOfWork _unitOfWork, IMapper _mapper) : IRequestHandler<RetrieveTaskDetailsCommand, RetrieveTaskDetailsCommandResponse>
 {
-    internal class RetrieveTaskDetailsCommand
+    public async Task<RetrieveTaskDetailsCommandResponse> Handle(RetrieveTaskDetailsCommand request, CancellationToken cancellationToken)
     {
+        return new();
     }
 }

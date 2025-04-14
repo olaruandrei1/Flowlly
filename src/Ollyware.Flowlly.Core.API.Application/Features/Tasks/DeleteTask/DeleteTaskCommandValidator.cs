@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using FluentValidation;
 
-namespace Ollyware.Flowlly.Core.API.Application.Features.Tasks.DeleteTask
+namespace Ollyware.Flowlly.Core.API.Application.Features.Tasks.DeleteTask;
+
+public class DeleteTaskCommandValidator : AbstractValidator<DeleteTaskCommand>
 {
-    internal class DeleteTaskCommandValidator
+    public DeleteTaskCommandValidator()
     {
+        RuleFor(x => x.TaskId)
+            .NotEmpty().WithMessage("Task ID is required.");
     }
 }

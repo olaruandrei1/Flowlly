@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using FluentValidation;
 
-namespace Ollyware.Flowlly.Core.API.Application.Features.Tasks.RetrieveTaskDetails
+namespace Ollyware.Flowlly.Core.API.Application.Features.Tasks.RetrieveTaskDetails;
+
+public class RetrieveTaskDetailsCommandValidator : AbstractValidator<RetrieveTaskDetailsCommand>
 {
-    internal class RetrieveTaskDetailsCommandValidator
+    public RetrieveTaskDetailsCommandValidator()
     {
+        RuleFor(x => x.TaskId)
+            .NotEmpty().WithMessage("Task ID must be provided.");
     }
 }

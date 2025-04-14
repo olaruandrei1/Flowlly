@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Ollyware.Flowlly.Core.API.props" />
-</Project>

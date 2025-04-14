@@ -1,6 +1,5 @@
 ﻿namespace Ollyware.Flowlly.Core.API.Domain.Entities;
 
-public class TaskEntity
+public class HabitEntity
 {
-    public Guid Id { get; set; }
 }

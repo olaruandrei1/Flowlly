@@ -1,12 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using MediatR;
+using Ollyware.Flowlly.Core.API.Application.Contracts.Persistence.Configurations;
 
-namespace Ollyware.Flowlly.Core.API.Application.Features.Tasks.DeleteTask
+namespace Ollyware.Flowlly.Core.API.Application.Features.Tasks.DeleteTask;
+
+public record struct DeleteTaskCommand(Guid TaskId) : IRequest<DeleteTaskCommandResponse> { }
+
+public class DeleteTaskCommandHandler(IUnitOfWork _unitOfWork) : IRequestHandler<DeleteTaskCommand, DeleteTaskCommandResponse>
 {
-    internal class DeleteTaskCommand
+    public async Task<DeleteTaskCommandResponse> Handle(DeleteTaskCommand request, CancellationToken cancellationToken)
     {
+        return new();
     }
 }
