@@ -14,7 +14,6 @@ public readonly record struct EditTaskCommand(
     Domain.Constants.TaskStatus Status,
     List<string>? Tags,
     double? EstimatedTime,
-    Guid? AssignedToUserId,
     string? Category,
     bool Recurring,
     int? RepeatIntervalDays,
@@ -25,6 +24,17 @@ public class EditTaskCommandHandler(IUnitOfWork _unitOfWork, IMapper _mapper) : 
 {
     public async Task<EditTaskCommandResponse> Handle(EditTaskCommand request, CancellationToken cancellationToken)
     {
-        return new();
+        var task = await _unitOfWork.Tasks.GetRecordById(request.Id);
+        
+        if (task is null || task.IsDeleted)
+            return EditTaskCommandResponse.Orchestrator(false);
+
+        _mapper.Map(request, task); 
+        
+        await _unitOfWork.Tasks.UpdateRecord(task);
+        
+        var result = await _unitOfWork.SaveChangesAsync();
+
+        return EditTaskCommandResponse.Orchestrator(result > 0);
     }
 }

@@ -1,12 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace Ollyware.Flowlly.Core.API.Domain.Entities;
 
-namespace Ollyware.Flowlly.Core.API.Domain.Entities
+public class NoteEntity
 {
-    public class NoteEntity
-    {
-    }
 }

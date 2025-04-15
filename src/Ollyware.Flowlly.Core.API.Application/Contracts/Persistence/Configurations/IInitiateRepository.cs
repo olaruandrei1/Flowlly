@@ -6,5 +6,6 @@ public interface IInitiateRepository<T> where T : class
     Task<List<T>> GetAllRecords();
     Task SaveRecord(T entity);
     Task DeleteRecord(Guid? id = null, T? entity = null);
-    Task UpdateAsync(T entity);
+    Task UpdateRecord(T entity);
+    IQueryable<T> Query();
 }
